@@ -1,2 +1,2 @@
 # interpreter-compiler
-trying to make one in python
+Trying to Understand how it works through python
